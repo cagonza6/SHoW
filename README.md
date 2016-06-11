@@ -1,5 +1,6 @@
 #SHoW
-This is a simple hot wire game made with the Raspberry Pi, for the development I used the RP2, but I guess it will be compatible with the models b+ as well. An important issue is that the RPi needs a very stable power source, otherwise it will fail apically (the time and detection of contact gets crazy).
+This is a simple hot wire game made with the Raspberry Pi, used as a game for the "after defense" of a collegue.
+For the development I used the RP2, but I guess it will be compatible with the models b+ as well. An important issue is that the RPi needs a very stable power source, otherwise it will fail apically (the time and detection of contact gets crazy).
 
 The configuration can be found in the Main file. 
 * if TEST is set true, it will show an extra panel to debug the program in order to simulate the touchs of ht users.

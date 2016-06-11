@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="people">
+    <file>user_1.jpg</file>
+    <file>user_2.jpg</file>
+  </qresource>
+</RCC>

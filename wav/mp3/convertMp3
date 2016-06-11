@@ -1,0 +1,7 @@
+
+ffmpeg -i '20th Century Recorder Edition.mp3' open.wav
+ffmpeg -i 'Nope Sound Effect.mp3' wrong.wav
+ffmpeg -i 'Blitz kurz1.mp3' ../tone1.wav
+ffmpeg -i 'Blitz kurz2.mp3' ../tone2.wav
+ffmpeg -i 'Blitz kurz3.mp3' ../tone3.wav
+ffmpeg -i 'Blitz kurz4.mp3' ../tone4.wav

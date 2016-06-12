@@ -26,11 +26,11 @@ CTRLSP = [22, 10]
 * At the end of the track using isolating tape and your imagination, connect a cable to the CTRLSP of each player.
 
 The idea is that at the end of the race, wins the player with "less points" where the points are the number of seconds required for the race + the number of times that the player contacted the wire. For instance:  
-* P1 = 30 segs required for the race and touched the wire 5 times,  
-* P2 = 25 segs required for the race and touched the wire 10 times,  
+* P1 = 25 segs required for the race and touched the wire 5 times,  
+* P2 = 21 segs required for the race and touched the wire 10 times,  
 
 finally    
-P1 = 30+5  
-p2 = 25+10  
+P1 = 25+5  
+p2 = 21+10  
 
 and the winer is P1. The cryteria is to be fast an precise.
